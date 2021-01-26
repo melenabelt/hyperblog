@@ -43,6 +43,13 @@ body  {
     font-size: 18px;
 }
 
+#post img {
+    margin: 0 auto;
+    width: 60%;
+    display: flex;
+    justify-self: center;
+}
+
 #footer {
   background: #777;
   color: white;
